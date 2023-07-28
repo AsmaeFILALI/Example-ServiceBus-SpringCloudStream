@@ -1,7 +1,6 @@
 package com.example.messagingdemo.serviceBus;
 
 import com.example.messagingdemo.MenuOrder;
-import com.example.messagingdemo.rabbitMq.RabbitMQSender;
 import com.fasterxml.jackson.core.JsonProcessingException;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.PostMapping;
